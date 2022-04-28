@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:avr:lilypad:cpu=atmega328",
+    "name": "LilyPad Arduino",
+    "type": ""
+  },
+  "secrets": [],
+  "included_libs": []
+}
